@@ -1,7 +1,6 @@
 let velocity= 80;
 let size = 10;
 
-//choque con los bordes 
 class object{
     constructor(){
         this.size = size ;
